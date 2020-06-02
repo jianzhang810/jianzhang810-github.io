@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Blog"
+title = "Anubis"
 theme = "anubis"
 paginate = 3
 
@@ -8,11 +8,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-  name = "JianZhang"
+  name = "Dmitry Kolosov"
 
 [params]
-   author = "JianZhang"
-   description = "JianZhang's Blog."
+   author = "Dmitry Kolosov"
+   description = "Anubis is a simple minimalist theme for Hugo blog engine."
 
 [menu]
 
